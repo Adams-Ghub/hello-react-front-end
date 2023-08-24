@@ -10,7 +10,6 @@ const Greeting = () => {
     dispatch(getGreeting());
   }, []);
 
-  
   return <div>{greeting.message}</div>;
 };
 
