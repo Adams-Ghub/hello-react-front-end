@@ -128,7 +128,7 @@ Feel free to check the [issues page](https://github.com/Adams-Ghub/hello-react-f
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
+Kindly support this project by checking out application and give it more star ratings
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
