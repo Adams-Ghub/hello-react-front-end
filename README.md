@@ -24,7 +24,7 @@
 
 # 📖 Hello react front end <a name="about-project"></a>
 
-**Hello rails front-end** is a application that is built with react and meant to serve as the front end that uses an api from a rails application, hello rails backend a pi the serves messages to a front end application built with react.
+**Hello rails front-end** is a application that is built with react and meant to serve as the front end that uses an api from a rails application, <a href="https://github.com/Adams-Ghub/hello-rails-back-end/">Hello rails backend</a> that serves messages randomly.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -122,7 +122,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Adams-Ghub/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/Adams-Ghub/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
